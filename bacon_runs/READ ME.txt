@@ -1,0 +1,9 @@
+runs are done for no wood dates
+
+HA02 core included
+HA04 core included
+HA06 wood not included
+SM01 core included
+SM03 core included
+
+depth ranges are converted to shallowest depth value instead

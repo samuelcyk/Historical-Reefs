@@ -1,0 +1,16 @@
+## Ran on Thu Dec 02 12:35:07 2021 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal20, 0;
+Cal 2 : Marine20;
+Cal 3 : SHCal20, 0;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : NA , 6370, 6545000, 0,  -235,  104,  3,  4,  2;
+Det 1 : UCID22766 , 6370, 25, 19.5,  -235,  104,  3,  4,  2;
+Det 2 : UCID22767 , 6330, 30, 19.5,  -235,  104,  3,  4,  2;
+Det 3 : UCID23435 , 6545, 20, 41,  -235,  104,  3,  4,  2;
+Det 4 : NA , 6545, 6.545e+09, 65,  -235,  104,  3,  4,  2;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax seed
+Bacon 0: FixT, 15,  -71,  1e+06,  6333,  6343,  5,  5,  1.5,  0.15, 0, 75, 222123;
