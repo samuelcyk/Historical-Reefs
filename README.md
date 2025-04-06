@@ -1,4 +1,4 @@
-## Singapore Historical Reefs Manuscript (SGHistoricalReefs)
+## Singapore Historical Reefs Manuscript (HistoricalReefs)
 Analyses for historical reefs through time and comparisons with modern analogues.
 
 ### Please see the following paper for details.
